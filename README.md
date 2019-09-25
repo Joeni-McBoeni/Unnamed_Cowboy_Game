@@ -3,7 +3,8 @@ A tiny startegy game I made a while back. It's about two cowboys having a duel. 
 
 ## Installation
 Just download the folder, and open the following file:
-cowboy_pew_pew\cowboy_pew_pew\bin\Debug.cowboy_pew_pew.exe
+
+cowboy_pew_pew\cowboy_pew_pew\bin\Debug\cowboy_pew_pew.exe
 
 ## How to play
 Each player uses a set of numbers keys, with the player on the left using the regular ones and the player on the right using the numpad ones. Every number is tied to an action:
