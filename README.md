@@ -15,9 +15,9 @@ Each player uses a set of numbers keys, with the player on the left using the re
 
 3 - Reload (Gain a bullet, unless you already have six)
 
-4 - Rest (Gain a life, unless your opponent shoots you or you already have six)
+4 - Rest (Gain a health, unless your opponent shoots you or you already have six)
 
-Combat resolves once both players have made their input for the round. When a player loses all of their lifes, the lose the game. 
+Combat resolves once both players have made their input for the round. When a player loses all of their health, the lose the game. 
 
 ## License
 This project is licensed under the standard MIT license. 
